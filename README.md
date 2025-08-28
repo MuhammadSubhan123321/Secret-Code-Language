@@ -91,7 +91,8 @@ hello	AbchelloXyz	hello
 
 -Implementing list comprehensions and joins for clean output.
 
-👤 Author
+👨‍💻 **Developer**
 
-Developed by Muhammad Subhan ✨
+Muhammad Subhan – Full-Stack Developer (in progress)
+
 A fun Python project demonstrating creativity in text encoding & decoding.
